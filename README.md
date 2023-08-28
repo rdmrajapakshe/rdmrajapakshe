@@ -27,8 +27,8 @@ I am an undergraduate in Software Engineering with team work spirit, hard workin
 
 
 # My Github stats
-![Sreevishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdmrajapakshe-ux&hide=issues&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdmrajapakshe-ux&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+![Dileepa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdmrajapakshe&hide=issues&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdmrajapakshe&layout=compact&theme=gotham)](https://github.com/rdmrajapakshe/github-readme-stats)
 
 <a href="https://wakatime.com"><img src="https://dira.lk/static/img/dileepa-rajapakshe.png" width = 400px /></a>
 
