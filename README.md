@@ -30,7 +30,7 @@ I am an undergraduate in Software Engineering with team work spirit, hard workin
 ![Dileepa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdmrajapakshe&hide=issues&show_icons=true&theme=gotham)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdmrajapakshe&layout=compact&theme=gotham)](https://github.com/rdmrajapakshe/github-readme-stats)
 
-<a href="https://wakatime.com"><img src="https://dira.lk/static/img/dileepa-rajapakshe.png" width = 400px /></a>
+<a href="https://dira.lk"><img src="https://dira.lk/static/img/dileepa-rajapakshe.png" width = 400px /></a>
 
 
 
